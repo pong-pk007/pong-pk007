@@ -65,18 +65,36 @@ src="https://img.shields.io/github/followers/pong-pk007?logo=github&style=for-th
   <tr>
     <td valign="top"><b>🗄 Database</b></td>
     <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="MongoDB" /></a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" height="36" alt="MySQL" /></a>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" height="36" alt="PostgreSQL" /></a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" /></a>
+      <a href="https://opensearch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" /></a>
+      <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" alt="ChromaDB" /></a>
     </td>
   </tr>
   <tr>
     <td valign="top"><b>☁️ Cloud / DevOps</b></td>
     <td>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" /></a>
-      <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" height="36" alt="Heroku" /></a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" height="36" alt="Docker" /></a>
+      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" height="36" alt="Kubernetes" /></a>
+      <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" height="36" alt="Jenkins" /></a>
+      <a href="https://docs.gitlab.com/runner/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gitlab" height="36" alt="GitLab Runner" /></a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" height="36" alt="Git" /></a>
       <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" /></a>
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" height="36" alt="Firebase" /></a>
+      <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=heroku" height="36" alt="Heroku" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>📈 Monitoring & Observability</b></td>
+    <td>
+      <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
+      <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
+      <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" /></a>
+      <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /></a>
+      <a href="https://www.elastic.co/logstash" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" /></a>
+      <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" /></a>
     </td>
   </tr>
   <tr>
@@ -95,7 +113,11 @@ src="https://img.shields.io/github/followers/pong-pk007?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/psdev2019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/pong-pk007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pongsathon-somjai-1ab9941a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/psdev2019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
+  <a href="https://www.github.com/pong-pk007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+</p>
 
 ### 📊 GitHub Stats
 
