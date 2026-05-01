@@ -113,29 +113,12 @@ src="https://img.shields.io/github/followers/pong-pk007?logo=github&style=for-th
 
 ### Socials
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pongsathon-somjai-1ab9941a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/psdev2019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
-  <a href="https://www.github.com/pong-pk007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/pongsathon-somjai-1ab9941a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;<a href="https://www.facebook.com/psdev2019" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>&nbsp;<a href="https://www.github.com/pong-pk007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a></p>
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/pong-pk007">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=pong-pk007&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="pong-pk007's GitHub stats" />
-  </a>
-  <a href="https://github.com/pong-pk007">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pong-pk007&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
+<p align="left"><a href="https://github.com/pong-pk007"><img height="170" src="https://github-readme-stats.vercel.app/api?username=pong-pk007&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="pong-pk007's GitHub stats" /></a>&nbsp;<a href="https://github.com/pong-pk007"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pong-pk007&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" /></a></p>
 
-<p align="left">
-  <a href="https://github.com/pong-pk007">
-    <img src="https://streak-stats.demolab.com?user=pong-pk007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<p align="left"><a href="https://github.com/pong-pk007"><img src="https://streak-stats.demolab.com?user=pong-pk007&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a></p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pong-pk007&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
-</p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=pong-pk007&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" /></p>
