@@ -15,11 +15,11 @@ src="https://img.shields.io/github/followers/pong-pk007?logo=github&style=for-th
 
 ### 🚀 Featured Work
 
-* **Multi-Tenant AI Agent Platform** — Thai-language LLM platform serving 200+ enterprise & government tenants: per-tenant agent skills, RAG pipelines, multi-layer safety guardrails, self-hosted GPU inference
-* **AI Gateway** — centralized LLM gateway (LiteLLM) providing unified access to self-hosted (vLLM) and commercial models, with per-tenant keys, model routing, and usage tracking
-* **MCP Server Framework** — dynamic Model Context Protocol server framework with HTTP Streamable transport, connecting LLM agents to MS SQL, PostgreSQL, n8n, filesystems, and custom APIs
-* **Hybrid-Search RAG Pipelines** — OpenSearch 3.x + BGE-Reranker-v2-m3 + Qwen3-Embedding-4B for Thai-language semantic search over enterprise documents
-* **Self-Hosted Agent Tooling** — privacy-preserving web search (SearXNG + Crawl4AI) and a Docker-based sandbox for safe agent code execution
+* **Multi-Tenant AI Agent Platform** - Thai-language LLM platform serving 200+ enterprise & government tenants: per-tenant agent skills, RAG pipelines, multi-layer safety guardrails, self-hosted GPU inference
+* **AI Gateway** - centralized LLM gateway (LiteLLM) providing unified access to self-hosted (vLLM) and commercial models, with per-tenant keys, model routing, and usage tracking
+* **MCP Server Framework** - dynamic Model Context Protocol server framework with HTTP Streamable transport, connecting LLM agents to MS SQL, PostgreSQL, n8n, filesystems, and custom APIs
+* **Hybrid-Search RAG Pipelines** - OpenSearch 3.x + BGE-Reranker-v2-m3 + Qwen3-Embedding-4B for Thai-language semantic search over enterprise documents
+* **Self-Hosted Agent Tooling** - privacy-preserving web search (SearXNG + Crawl4AI) and a Docker-based sandbox for safe agent code execution
 
 ### 🛠 Tech Stack
 <table>
